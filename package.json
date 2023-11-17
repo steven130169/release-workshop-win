@@ -1,0 +1,19 @@
+{
+  "name": "release-workshop-win",
+  "version": "0.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steven130169/release-workshop-win.git"
+  },
+  "author": "Steven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steven130169/release-workshop-win/issues"
+  },
+  "homepage": "https://github.com/steven130169/release-workshop-win#readme"
+}
